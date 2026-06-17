@@ -1,4 +1,4 @@
-# Sketch Steps AI MVP
+# Sketch Steps AI
 
 ## Run
 
